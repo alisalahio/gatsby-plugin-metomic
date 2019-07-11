@@ -1,0 +1,40 @@
+{
+  "name": "gatsby-plugin-metomic",
+  "version": "0.0.1",
+  "description": "Gatsby plugin to add metomic cookie consent to your gatsby site",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "metomic"
+  ],
+  "homepage": "https://github.com/alisalahio/gatsby-plugin-metomic#readme",
+  "bugs": "https://github.com/alisalahio/gatsby-plugin-metomic/issues",
+  "license": "MIT",
+  "author": "Ali Salah <ali@@salah.io> (https://ali.salah.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alisalahio/gatsby-plugin-metomic.git"
+  },
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "prepare": "npm run build",
+    "lint": "eslint ./src --ext .js",
+    "format": "prettier --write \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-ryanditjia": "^3.1.0",
+    "prettier": "^1.17.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^1.0.0 || ^2.0.0 || ^2.0.0-alpha || ^2.0.0-beta"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "dependencies": {}
+}
