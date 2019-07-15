@@ -6,6 +6,10 @@ Easily add metomic cookie consent to your Gatsby site.
 
 `npm install --save gatsby-plugin-metomic`
 
+OR
+
+`yarn add gatsby-plugin-metomic`
+
 ## How to use
 
 ```javascript
