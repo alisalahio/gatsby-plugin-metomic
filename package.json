@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-metomic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby plugin to add metomic cookie consent to your gatsby site",
   "keywords": [
     "gatsby",
