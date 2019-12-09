@@ -26,3 +26,10 @@ module.exports = {
 }
 ```
 
+### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
+
+### Other projects:
+- 🤙 [Gatsby-starter-blog-and-portfolio](https://www.gatsbyjs.org/starters/alisalahio/gatsby-starter-blog-and-portfolio/) - A Gatsby starter for your blog posts and projects
+- 🙀 [Sup](https://supstatus.com) - The status page for your startup.
+- 🤓 [Sipreads](https://sipreads.com) - Takaways from the best nonfiction books.
+--- 
